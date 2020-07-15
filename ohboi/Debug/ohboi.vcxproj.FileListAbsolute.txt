@@ -1,0 +1,2 @@
+C:\Users\Keanu\source\repos\ohboi\Debug\ohboi.exe
+C:\Users\Keanu\source\repos\ohboi\Debug\ohboi.pdb
